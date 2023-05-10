@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on implementing C p.language
+- 🔭 I’m currently working on implementing Cand G language
 - 🌱 I’m currently learning to use p.languages to communicate with electornics
 - 👯 I’m looking to collaborate on c projects
 - 🤔 I’m looking for help with robotics
