@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on c projects
 - 🤔 I’m looking for help with robotics
 - 💬 Ask me about engineering abroad
-- 📫 How to reach me: @gihub
+- 📫 How to reach me: @github
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm kinda fun
 <!--
