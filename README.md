@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on implementing Python Cand Labview
+- 🔭 I’m currently working on implementing Python C and Labview
 - 🌱 I’m currently learning to use p.languages to communicate with electronics
 - 👯 I’m looking to collaborate on c projects
 - 🤔 I’m looking for help with robotics
