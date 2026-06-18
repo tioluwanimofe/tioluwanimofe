@@ -1,19 +1,19 @@
 ### Hi there 👋
 
 ## Professional Highlights
-- 💻 *Technical Skills:* Proficient in HTML, CSS, C++, Python, Hardware, and hardware troubleshooting.
-- 🛠 *Project Experience:* I'm currently working on implementing Python, Cpp, Dart, C, and Labview
-- 🌐 *Problem Solver:* I'm looking to collaborate on Python projects and robotics
+- 💻 *Technical Skills:* Proficient in Web development, C++ scripting, Python scripting, Electrical design, and electronics troubleshooting.
+- 🛠 *Project Experience:* Check out my projects on my GitHub or on my website!
+- 🌐 *Problem Solver:* I help with Christian counselling, and everyday problem solving!
 - 🌟 *Education:* B.S. in Electrical and Computer Engineering
-- 🏆 *Honors:* Too Many
-- 💼 *Experience:* Project Engineering Intern at PCS | TNU Engineering - Teaching Assistant
+- 🏆 *Honors:* Too Many, All the Glory to God!
+- 💼 *Experience:* View my resume on my website, as well!
   
 ### About Me
-- 🌱 I'm currently learning to use p.languages to communicate with electronics 
-- 💬 Ask me about engineering abroad
-- 📫 How to reach me: @github
+- 🌱 I'm currently learning to use programming languages to communicate with electronics
+- 💬 Ask me about how to build up a profound understanding of the bible!
+- 📫 How to reach me: GitHub, LinkedIn, or check out my website.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm fun
+- ⚡ Fun fact: I'm still figuring this out :(
 
 <p align="left">
 </p>
